@@ -1,0 +1,15 @@
+.fc-theme-standard .fc-list-day-cushion {
+    background-color: rgb(71, 68, 87);
+}
+
+
+.fc .fc-list-event:hover td {
+    background-color: #fff;
+    color: #141b2d;
+    font-weight: bold;
+    
+}
+
+.css-n8dm29-MuiListItem-root {
+    color: #141b2d;
+}
